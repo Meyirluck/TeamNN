@@ -1,4 +1,4 @@
-package com.example.assim2
+package com.example.assignment2
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
