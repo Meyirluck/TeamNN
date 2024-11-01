@@ -1,4 +1,4 @@
-package com.example.assignment2.presentation
+package com.example.TeamNN.presentation
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Arrangement
@@ -15,7 +15,7 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.assignment2.data.OnBoardingPage
+import com.example.TeamNN.data.OnBoardingPage
 
 @Composable
 fun OnBoardingPageUI(page: OnBoardingPage) {
