@@ -1,4 +1,4 @@
-package com.example.assignment2.data
+package com.example.TeamNN.data
 
 data class OnBoardingPage(
     val title: String,
